@@ -11,8 +11,10 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
-    "jasmine": "^3.3.0",
     "mongoose": "^5.3.7",
     "mongoose-auto-increment": "^5.0.1"
+  },
+  "devDependencies": {
+    "jasmine": "^3.3.0"
   }
 }
